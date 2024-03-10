@@ -1,0 +1,33 @@
+{
+  "dersprogrami": [
+    {
+      "id": 11,
+      "ad": "Veri Yap\u0131lar\u0131 ve Algoritmalar",
+      "gun": "Pazartesi",
+      "saat": "09:00",
+      "classes": "Derslik 2"
+    },
+    {
+      "id": 12,
+      "ad": "Veri Yap\u0131lar\u0131 Lab",
+      "gun": "Pazartesi",
+      "saat": "10:00",
+      "classes": "Derslik 2"
+    },
+    {
+      "id": 13,
+      "ad": "Linux",
+      "gun": "Pazartesi",
+      "saat": "11:00",
+      "classes": "Derslik 2"
+    },
+    {
+      "id": 14,
+      "ad": "G\u00f6r\u00fcnt\u00fc \u0130\u015fleme",
+      "gun": "Pazartesi",
+      "saat": "12:00",
+      "classes": "Derslik 1"
+    }
+  ],
+  "hocaAdi": "Serdar Solak"
+}
